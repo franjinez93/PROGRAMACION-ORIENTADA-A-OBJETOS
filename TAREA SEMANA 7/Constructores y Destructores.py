@@ -18,8 +18,6 @@ class estudiante_uea:  # usage
     def __del__(self):
         # Destructor: se llama automáticamente cuando el objeto se elimina (salida de la universidad)
         print("Estudiante salio de la UEA")
-
-
 # Ingreso de estudiantes
 estudiante1 = estudiante_uea("Francisco Jinez", "1003867429")
 
