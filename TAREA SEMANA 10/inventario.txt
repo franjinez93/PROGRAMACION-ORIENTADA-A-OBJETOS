@@ -1,0 +1,3 @@
+ID001;Galletas Saladitas;20;0.4
+ID002;Chicle Agogo;30;0.1
+ID003;Galleta Festival;30;0.15
