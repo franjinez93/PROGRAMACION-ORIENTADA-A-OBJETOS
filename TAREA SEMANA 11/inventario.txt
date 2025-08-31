@@ -1,0 +1,27 @@
+{
+    'id': 'ID001',
+    'nombre': 'Galletas Saladitas',
+    'cantidad': 20,
+    'precio': 0.4
+}
+
+{
+    'id': 'ID002',
+    'nombre': 'Chicle Agogo',
+    'cantidad': 30,
+    'precio': 0.1
+}
+
+{
+    'id': 'ID004',
+    'nombre': 'Chupete PLOP',
+    'cantidad': 50,
+    'precio': 0.1
+}
+
+{
+    'id': 'ID005',
+    'nombre': 'Judo del valle',
+    'cantidad': 20,
+    'precio': 0.5
+}
