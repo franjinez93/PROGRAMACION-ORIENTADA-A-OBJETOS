@@ -1,0 +1,9 @@
+[
+  {
+    "usuario": "Juan Perez",
+    "libro": "Cien años de soledad",
+    "isbn": "978-0003",
+    "fecha_prestamo": "2025-09-07T20:53:49.057960",
+    "devuelto": false
+  }
+]

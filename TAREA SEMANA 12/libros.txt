@@ -1,0 +1,74 @@
+[
+  {
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes",
+    "categoria": "Clásico",
+    "isbn": "978-0001",
+    "prestado": false,
+    "usuario_prestado": null
+  },
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "categoria": "Distopía",
+    "isbn": "978-0002",
+    "prestado": false,
+    "usuario_prestado": null
+  },
+  {
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel García Márquez",
+    "categoria": "Realismo mágico",
+    "isbn": "978-0003",
+    "prestado": true,
+    "usuario_prestado": "1003867429"
+  },
+  {
+    "titulo": "Orgullo y prejuicio",
+    "autor": "Jane Austen",
+    "categoria": "Clásico",
+    "isbn": "978-0004",
+    "prestado": false,
+    "usuario_prestado": null
+  },
+  {
+    "titulo": "Frankenstein",
+    "autor": "Mary Shelley",
+    "categoria": "Ciencia ficción",
+    "isbn": "978-0005",
+    "prestado": false,
+    "usuario_prestado": null
+  },
+  {
+    "titulo": "El Principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "categoria": "Fábula",
+    "isbn": "978-0006",
+    "prestado": false,
+    "usuario_prestado": null
+  },
+  {
+    "titulo": "La Odisea",
+    "autor": "Homero",
+    "categoria": "Clásico",
+    "isbn": "978-0007",
+    "prestado": false,
+    "usuario_prestado": null
+  },
+  {
+    "titulo": "El Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "categoria": "Fantasía",
+    "isbn": "978-0008",
+    "prestado": false,
+    "usuario_prestado": null
+  },
+  {
+    "titulo": "El código Da Vinci",
+    "autor": "Dan Brown",
+    "categoria": "Thriller",
+    "isbn": "978-0009",
+    "prestado": false,
+    "usuario_prestado": null
+  }
+]

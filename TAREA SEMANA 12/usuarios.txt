@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Juan Perez",
+    "id_usuario": "1003867429",
+    "libros_prestados_isbn": [
+      "978-0003"
+    ],
+    "fecha_registro": "2025-09-07T20:52:56.423686"
+  },
+  {
+    "nombre": "Yessica Gonzalez",
+    "id_usuario": "1718394682",
+    "libros_prestados_isbn": [],
+    "fecha_registro": "2025-09-07T20:53:11.611474"
+  },
+  {
+    "nombre": "Carlos Yepez",
+    "id_usuario": "0604585789",
+    "libros_prestados_isbn": [],
+    "fecha_registro": "2025-09-07T20:53:26.415895"
+  }
+]
